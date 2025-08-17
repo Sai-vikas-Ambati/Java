@@ -1,1 +1,2 @@
-# Java
+# code
+## Added the leetcode questions
